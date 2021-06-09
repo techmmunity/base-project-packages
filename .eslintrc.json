@@ -8,9 +8,7 @@
 	"extends": [
 		"@techmmunity/eslint-config/common",
 		"@techmmunity/eslint-config/jest",
-		"@techmmunity/eslint-config/typescript",
-		"plugin:@typescript-eslint/recommended",
-		"plugin:prettier/recommended"
+		"@techmmunity/eslint-config/typescript"
 	],
 	"root": true,
 	"env": {
