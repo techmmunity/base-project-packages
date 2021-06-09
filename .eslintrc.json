@@ -4,7 +4,7 @@
 		"project": "tsconfig.json",
 		"sourceType": "module"
 	},
-	"plugins": ["@typescript-eslint/eslint-plugin", "import-helpers"],
+	"plugins": ["import-helpers"],
 	"extends": [
 		"@techmmunity/eslint-config/common",
 		"@techmmunity/eslint-config/jest",
