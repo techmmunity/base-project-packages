@@ -6,6 +6,9 @@
 	},
 	"plugins": ["@typescript-eslint/eslint-plugin", "import-helpers"],
 	"extends": [
+		"@techmmunity/eslint-config/common",
+		"@techmmunity/eslint-config/jest",
+		"@techmmunity/eslint-config/typescript",
 		"plugin:@typescript-eslint/recommended",
 		"plugin:prettier/recommended"
 	],

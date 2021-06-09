@@ -5,7 +5,7 @@
 ```
 | src
 | - - subfolder
-| README.md (Project apresentation and documentation)
+| README.md (Project presentation and documentation)
 ```
 
 ## Projects Patterns
