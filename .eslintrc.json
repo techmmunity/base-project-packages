@@ -1,23 +1,35 @@
 {
+	"root": true,
 	"parser": "@typescript-eslint/parser",
 	"parserOptions": {
 		"project": "tsconfig.json",
 		"sourceType": "module"
 	},
-	"plugins": ["import-helpers"],
+	"plugins": [
+		"import-helpers"
+	],
 	"extends": [
 		"@techmmunity/eslint-config/common",
-		"@techmmunity/eslint-config/jest",
-		"@techmmunity/eslint-config/typescript"
+		"@techmmunity/eslint-config/typescript",
+		"@techmmunity/eslint-config/jest"
 	],
-	"root": true,
 	"rules": {
 		"import-helpers/order-imports": [
 			"warn",
 			{
 				"newlinesBetween": "always",
-				"groups": ["module", ["parent", "sibling", "index"]],
-				"alphabetize": { "order": "asc", "ignoreCase": true }
+				"groups": [
+					"module",
+					[
+						"parent",
+						"sibling",
+						"index"
+					]
+				],
+				"alphabetize": {
+					"order": "asc",
+					"ignoreCase": true
+				}
 			}
 		]
 	}
