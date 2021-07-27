@@ -5,9 +5,6 @@
 		"project": "tsconfig.json",
 		"sourceType": "module"
 	},
-	"plugins": [
-		"import-helpers"
-	],
 	"extends": [
 		"@techmmunity/eslint-config/common",
 		"@techmmunity/eslint-config/typescript",
@@ -18,14 +15,7 @@
 			"warn",
 			{
 				"newlinesBetween": "always",
-				"groups": [
-					"module",
-					[
-						"parent",
-						"sibling",
-						"index"
-					]
-				],
+				"groups": ["module", ["parent", "sibling", "index"]],
 				"alphabetize": {
 					"order": "asc",
 					"ignoreCase": true

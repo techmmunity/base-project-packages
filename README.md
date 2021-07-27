@@ -7,7 +7,7 @@
 [![npm](https://img.shields.io/npm/v/@techmmunity/base-project-services.svg?color=CC3534)](https://www.npmjs.com/package/@techmmunity/base-project-services)
 [![Downloads](https://img.shields.io/npm/dw/@techmmunity/base-project-services.svg)](https://www.npmjs.com/package/@techmmunity/base-project-services)
 
-Description of the service
+Description of the package
 
 [![Discord Badge](https://img.shields.io/badge/join%20our%20community-7289DA?style=for-the-badge&labelColor=7289DA&logo=discord&logoColor=white)](https://discord.gg/qCJXz6P4qw)
 
@@ -30,11 +30,13 @@ npm i @techmmunity/base-project-packages
 With TypeScript:
 
 ```ts
+
 ```
 
 With JavaScript:
 
 ```js
+
 ```
 
 ## How to contribute?

@@ -1,3 +1,5 @@
+/* eslint-disable capitalized-comments */
+
 module.exports = {
 	moduleFileExtensions: ["js", "json", "ts"],
 	rootDir: "src",
@@ -6,13 +8,13 @@ module.exports = {
 		"^.+\\.(t|j)s$": "ts-jest",
 	},
 	collectCoverageFrom: ["**/*.ts"],
-	// SetupFiles: ["./v1/tests/setup.ts"],
+	// setupFiles: ["./v1/tests/setup.ts"],
 	coverageDirectory: "../coverage",
 	testEnvironment: "node",
 	moduleDirectories: ["node_modules", "src"],
 	resetMocks: true,
 	/*
-	 * CoverageThreshold: {
+	 * coverageThreshold: {
 	 * 	global: {
 	 * 		branches: 100,
 	 * 		functions: 100,
