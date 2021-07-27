@@ -1,6 +1,9 @@
 # Node Modules
 node_modules/
 
+# Scripts
+scripts/
+
 # Coverage
 coverage/
 
@@ -10,9 +13,8 @@ dist/
 # Lint
 lib/
 
-# Logs
-*.log*
+# Files
+*.js
 
-# TypeScript
-tsconfig.*
-!tsconfig.json
+# Core
+core/
