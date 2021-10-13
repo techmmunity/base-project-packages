@@ -1,15 +1,36 @@
-# Techmmunity Base Project Services
+<div align="center">
+	<img src="https://github.com/techmmunity/base-project-packages/raw/master/resources/logo.jpg" width="300" height="300">
+</div>
 
-[![CodeFactor](https://www.codefactor.io/repository/github/techmmunity/base-project-services/badge)](https://www.codefactor.io/repository/github/techmmunity/base-project-services)
-[![DeepScan grade](https://deepscan.io/api/teams/13883/projects/17164/branches/385798/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=13883&pid=17164&bid=385798)
-[![Coverage Status](https://coveralls.io/repos/github/Techmmunity/base-project-services/badge.svg?branch=master)](https://coveralls.io/github/Techmmunity/base-project-services?branch=master)
-[![tests](https://github.com/Techmmunity/base-project-services/workflows/coverage/badge.svg)]()
-[![npm](https://img.shields.io/npm/v/@techmmunity/base-project-services.svg?color=CC3534)](https://www.npmjs.com/package/@techmmunity/base-project-services)
-[![Downloads](https://img.shields.io/npm/dw/@techmmunity/base-project-services.svg)](https://www.npmjs.com/package/@techmmunity/base-project-services)
+<div align="center">
 
-Description of the package
+# Techmmunity - Base Project Packages
 
-[![Discord Badge](https://img.shields.io/badge/join%20our%20community-7289DA?style=for-the-badge&labelColor=7289DA&logo=discord&logoColor=white)](https://discord.gg/qCJXz6P4qw)
+<a href="https://github.com/techmmunity/eslint-config">
+	<img src="https://img.shields.io/badge/style%20guide-Techmmunity-01d2ce?style=for-the-badge" alt="Style Guide: Techmmunity">
+</a>
+<a href="https://www.codefactor.io/repository/github/techmmunity/base-project-packages">
+	<img src="https://www.codefactor.io/repository/github/techmmunity/base-project-packages/badge?style=for-the-badge" alt="CodeFactor">
+</a>
+<a href="https://coveralls.io/github/techmmunity/base-project-packages?branch=master">
+	<img src="https://img.shields.io/coveralls/github/techmmunity/base-project-packages/master?style=for-the-badge" alt="Coveralls">
+</a>
+<a href="https://github.com/techmmunity/base-project-packages/actions/workflows/coverage.yml">
+	<img src="https://img.shields.io/github/workflow/status/techmmunity/base-project-packages/tests?label=tests&logo=github&style=for-the-badge" alt="Tests">
+</a>
+<a href="https://www.npmjs.com/package/@techmmunity/base-project-packages">
+	<img src="https://img.shields.io/npm/v/@techmmunity/base-project-packages.svg?color=CC3534&style=for-the-badge" alt="Npm">
+</a>
+<a href="https://www.npmjs.com/package/@techmmunity/base-project-packages">
+	<img src="https://img.shields.io/npm/dw/@techmmunity/base-project-packages.svg?style=for-the-badge" alt="Downloads">
+</a>
+
+<br>
+<br>
+
+</div>
+
+> Description of the package
 
 ## Install
 
