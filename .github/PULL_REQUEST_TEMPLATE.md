@@ -11,7 +11,6 @@ Please check if your PR fulfills the following requirements:
 - [ ] The commit message follows our guidelines: https://github.com/techmmunity/easy-check/blob/master/CONTRIBUTING.md
 - [ ] Tests for the changes have been added
 - [ ] Docs have been added / updated
-- [ ] The `package.json` version has been upgraded
 - [ ] I followed GitFlow pattern to create the branch
 - [ ] My code produces no warnings or errors
 - [ ] Tests for the changes have been added / updated

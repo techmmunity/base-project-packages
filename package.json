@@ -36,7 +36,7 @@
 		"ts-node": "ts-node",
 		"test": "jest",
 		"test:cov": "jest --coverage",
-		"build": "ncc build src/index.ts -o dist -m",
+		"build": "ncc build src/index.ts -o dist -m -s",
 		"format": "eslint . --fix --quiet",
 		"lint": "eslint . --quiet",
 		"update-dependencies": "yarn upgrade-interactive --latest",
