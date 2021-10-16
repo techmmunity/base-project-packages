@@ -1,8 +1,6 @@
 <div align="center">
-	<img src="https://github.com/techmmunity/base-project-packages/raw/master/resources/logo.jpg" width="300" height="300">
-</div>
 
-<div align="center">
+<img src="https://github.com/techmmunity/base-project-packages/raw/master/resources/logo.jpg" width="300" height="300">
 
 # Techmmunity - Base Project Packages
 
